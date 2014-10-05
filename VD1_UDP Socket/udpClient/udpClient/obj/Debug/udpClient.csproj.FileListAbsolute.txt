@@ -1,0 +1,43 @@
+C:\Users\x61\Desktop\Lap trinh mang THKT50\Vidu\Socket_UDP\udpClient\udpClient\obj\Debug\udpClient.exe
+C:\Users\x61\Desktop\Lap trinh mang THKT50\Vidu\Socket_UDP\udpClient\udpClient\obj\Debug\udpClient.pdb
+C:\Users\x61\Desktop\Lap trinh mang THKT50\Vidu\Socket_UDP\udpClient\udpClient\bin\Debug\udpClient.exe
+C:\Users\x61\Desktop\Lap trinh mang THKT50\Vidu\Socket_UDP\udpClient\udpClient\bin\Debug\udpClient.pdb
+C:\Users\x61\Desktop\Lap trinh mang THKT50\Vidu\Socket_UDP\udpClient\udpClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\x61\Desktop\Lap trinh mang THKT50\Vidu\Socket_UDP\udpClient\udpClient\obj\Debug\udpClient.Form1.resources
+C:\Users\x61\Desktop\Lap trinh mang THKT50\Vidu\Socket_UDP\udpClient\udpClient\obj\Debug\udpClient.Properties.Resources.resources
+C:\Users\x61\Desktop\Lap trinh mang THKT50\Vidu\Socket_UDP\udpClient\udpClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\x61\Desktop\Lap trinh mang THKT50\Vidu\Socket_UDP\udpClient\udpClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\x61\Desktop\LTM51\Lap trinh mang THKT50\Vidu\Socket_UDP\Socket_UDP_K51\udpClient\udpClient\obj\Debug\udpClient.exe
+C:\Users\x61\Desktop\LTM51\Lap trinh mang THKT50\Vidu\Socket_UDP\Socket_UDP_K51\udpClient\udpClient\obj\Debug\udpClient.pdb
+C:\Users\x61\Desktop\LTM51\Lap trinh mang THKT50\Vidu\Socket_UDP\Socket_UDP_K51\udpClient\udpClient\bin\Debug\udpClient.exe
+C:\Users\x61\Desktop\LTM51\Lap trinh mang THKT50\Vidu\Socket_UDP\Socket_UDP_K51\udpClient\udpClient\bin\Debug\udpClient.pdb
+C:\Users\x61\Desktop\LTM51\Lap trinh mang THKT50\Vidu\Socket_UDP\Socket_UDP_K51\udpClient\udpClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\x61\Desktop\LTM51\Lap trinh mang THKT50\Vidu\Socket_UDP\Socket_UDP_K51\udpClient\udpClient\obj\Debug\udpClient.Form1.resources
+C:\Users\x61\Desktop\LTM51\Lap trinh mang THKT50\Vidu\Socket_UDP\Socket_UDP_K51\udpClient\udpClient\obj\Debug\udpClient.Properties.Resources.resources
+C:\Users\x61\Desktop\LTM51\Lap trinh mang THKT50\Vidu\Socket_UDP\Socket_UDP_K51\udpClient\udpClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\x61\Desktop\LTM51\Lap trinh mang THKT50\Vidu\Socket_UDP\Socket_UDP_K51\udpClient\udpClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\x61\Desktop\LTM51\Vidu K51\Socket_UDP_K51\udpClient\udpClient\obj\Debug\udpClient.exe
+C:\Users\x61\Desktop\LTM51\Vidu K51\Socket_UDP_K51\udpClient\udpClient\obj\Debug\udpClient.pdb
+C:\Users\x61\Desktop\LTM51\Vidu K51\Socket_UDP_K51\udpClient\udpClient\bin\Debug\udpClient.exe
+C:\Users\x61\Desktop\LTM51\Vidu K51\Socket_UDP_K51\udpClient\udpClient\bin\Debug\udpClient.pdb
+C:\Users\x61\Desktop\LTM51\Vidu K51\Socket_UDP_K51\udpClient\udpClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\x61\Desktop\LTM51\Vidu K51\Socket_UDP_K51\udpClient\udpClient\obj\Debug\udpClient.Form1.resources
+C:\Users\x61\Desktop\LTM51\Vidu K51\Socket_UDP_K51\udpClient\udpClient\obj\Debug\udpClient.Properties.Resources.resources
+C:\Users\x61\Desktop\LTM51\Vidu K51\Socket_UDP_K51\udpClient\udpClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\x61\Desktop\LTM51\Vidu K51\Socket_UDP_K51\udpClient\udpClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\X200 Table\Desktop\LTM52_PPT\Cac VD\VD1_UDP Socket\udpClient\udpClient\obj\Debug\udpClient.exe
+C:\Users\X200 Table\Desktop\LTM52_PPT\Cac VD\VD1_UDP Socket\udpClient\udpClient\obj\Debug\udpClient.pdb
+C:\Users\X200 Table\Desktop\LTM52_PPT\Cac VD\VD1_UDP Socket\udpClient\udpClient\bin\Debug\udpClient.exe
+C:\Users\X200 Table\Desktop\LTM52_PPT\Cac VD\VD1_UDP Socket\udpClient\udpClient\bin\Debug\udpClient.pdb
+C:\Users\X200 Table\Desktop\LTM52_PPT\Cac VD\VD1_UDP Socket\udpClient\udpClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\X200 Table\Desktop\LTM52_PPT\Cac VD\VD1_UDP Socket\udpClient\udpClient\obj\Debug\udpClient.Form1.resources
+C:\Users\X200 Table\Desktop\LTM52_PPT\Cac VD\VD1_UDP Socket\udpClient\udpClient\obj\Debug\udpClient.Properties.Resources.resources
+C:\Users\X200 Table\Desktop\LTM52_PPT\Cac VD\VD1_UDP Socket\udpClient\udpClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\X200 Table\Desktop\LTM52_PPT\Cac VD\VD1_UDP Socket\udpClient\udpClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\My PC\Desktop\tai lieu\VD1_UDP Socket\VD1_UDP Socket\udpClient\udpClient\obj\Debug\udpClient.exe
+C:\Users\My PC\Desktop\tai lieu\VD1_UDP Socket\VD1_UDP Socket\udpClient\udpClient\obj\Debug\udpClient.pdb
+C:\Users\My PC\Desktop\tai lieu\VD1_UDP Socket\VD1_UDP Socket\udpClient\udpClient\bin\Debug\udpClient.exe
+C:\Users\My PC\Desktop\tai lieu\VD1_UDP Socket\VD1_UDP Socket\udpClient\udpClient\bin\Debug\udpClient.pdb
+C:\Users\My PC\Desktop\tai lieu\VD1_UDP Socket\VD1_UDP Socket\udpClient\udpClient\obj\Debug\udpClient.Form1.resources
+C:\Users\My PC\Desktop\tai lieu\VD1_UDP Socket\VD1_UDP Socket\udpClient\udpClient\obj\Debug\udpClient.Properties.Resources.resources
+C:\Users\My PC\Desktop\tai lieu\VD1_UDP Socket\VD1_UDP Socket\udpClient\udpClient\obj\Debug\udpClient.csproj.GenerateResource.Cache

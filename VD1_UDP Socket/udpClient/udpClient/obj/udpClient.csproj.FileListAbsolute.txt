@@ -1,0 +1,8 @@
+c:\udpClient\udpClient\udpClient\bin\Debug\udpClient.exe
+c:\udpClient\udpClient\udpClient\bin\Debug\udpClient.pdb
+c:\udpClient\udpClient\udpClient\obj\Debug\ResolveAssemblyReference.cache
+c:\udpClient\udpClient\udpClient\obj\Debug\udpClient.Form1.resources
+c:\udpClient\udpClient\udpClient\obj\Debug\udpClient.Properties.Resources.resources
+c:\udpClient\udpClient\udpClient\obj\Debug\udpClient.csproj.GenerateResource.Cache
+c:\udpClient\udpClient\udpClient\obj\Debug\udpClient.exe
+c:\udpClient\udpClient\udpClient\obj\Debug\udpClient.pdb
